@@ -20,8 +20,8 @@ This is a project for CSCE 3110. A process comparison tool to compare price scra
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Trillymatt/Price-Comparison-Tool.git
-cd Price-Comparison-Tool
+git clone git@github.com:aoa0169/Price-Comparison.git
+cd Price-Comparison
 ```
 
 ### Install Dependencies
